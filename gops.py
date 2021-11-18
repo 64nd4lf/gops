@@ -14,3 +14,4 @@ for i in range(6):
 	c_num = input("Current #:")
 	play = compute_next_num(c_num)
 	print("Play:{}".format(play))
+
